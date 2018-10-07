@@ -68,12 +68,12 @@
         {
          "columns":4,
          "firstgid":1,
-         "image":"tilesheet128.png",
-         "imageheight":32,
-         "imagewidth":64,
-         "margin":0,
+         "image":"tilesheet128-extruded.png",
+         "imageheight":36,
+         "imagewidth":72,
+         "margin":1,
          "name":"tiles",
-         "spacing":0,
+         "spacing":2,
          "tilecount":8,
          "tileheight":16,
          "tileproperties":

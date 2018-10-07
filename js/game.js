@@ -29,7 +29,7 @@ let player;
 let showDebug = false;
 
 function preload() {
-  this.load.image("tiles", "assets/tilesheet128.png");
+  this.load.image("tiles", "assets/tilesheet128-extruded.png");
   this.load.tilemapTiledJSON("map", "assets/level.json");
 
   // Using a TexturePacker atlas for hero sprites
